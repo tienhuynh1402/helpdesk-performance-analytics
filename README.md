@@ -98,7 +98,7 @@ This analysis addresses critical business questions:
 
 ### Figure 1: Key Performance Indicators
 
-![KPI Dashboard](image1.png)
+![KPI Dashboard](./screenshots/image1.png)
 
 **Overview:**  
 Six critical metrics provide a comprehensive snapshot of Help Desk performance across 9,542 tickets spanning 8 months.
@@ -123,7 +123,7 @@ The disconnect between satisfaction (high) and SLA compliance (low) suggests cur
 
 ### Figure 2: Issue vs Request Volume Trends
 
-![Issue vs Request](image2.png)
+![Issue vs Request](./screenshots/image2.png)
 
 **Overview:**  
 Monthly breakdown of ticket types reveals balanced workload composition with seasonal patterns.
@@ -147,7 +147,7 @@ Predictable Issue volume allows for baseline staffing, while Request volatility 
 
 ### Figure 3: Ticket Status Overview
 
-![Status Overview](image3.png)
+![Status Overview](./screenshots/image3.png)
 
 **Overview:**  
 Donut chart reveals alarming backlog concentration with 72% of all tickets in Open status.
@@ -177,7 +177,7 @@ With 72% of tickets unresolved, customer satisfaction is at risk despite current
 
 ### Figure 4: Issue Category Distribution
 
-![Category Status](image4.png)
+![Category Status](./screenshots/image4.png)
 
 **Overview:**  
 Stacked column chart shows ticket volume and status composition across four issue categories.
@@ -210,7 +210,7 @@ Focus automation efforts on Access/Login category to achieve maximum impact.
 
 ### Figure 5: Severity Analysis
 
-![Severity Status](image5.png)
+![Severity Status](./screenshots/image5.png)
 
 **Overview:**  
 Distribution of tickets by severity level reveals concerning patterns in critical ticket management.
@@ -244,7 +244,7 @@ Failure to prioritize critical tickets exposes the company to major system downt
 
 ### Figure 6: Satisfaction by Status
 
-![Satisfaction Status](image6.png)
+![Satisfaction Status](./screenshots/image6.png)
 
 **Overview:**  
 Satisfaction score distribution across ticket statuses reveals customer sentiment patterns.
@@ -281,7 +281,7 @@ Implement automated post-resolution surveys and in-process check-ins to reduce "
 
 ### Figure 7: Total Tickets SLA Performance
 
-![Total SLA](image7.png)
+![Total SLA](./screenshots/image7.png)
 
 **Overview:**  
 Combo chart tracking monthly ticket volume against SLA compliance percentage reveals declining performance trend.
@@ -318,7 +318,7 @@ Downward trend from 53% to 47% over 8 months projects SLA compliance reaching 40
 
 ### Figure 8: Open Tickets SLA Tracking
 
-![Open SLA](image8.png)
+![Open SLA](./screenshots/image8.png)
 
 **Overview:**  
 Focused analysis on open ticket volumes and their SLA performance reveals concerning patterns in backlog management.
@@ -352,7 +352,7 @@ Need dedicated backlog reduction team to tackle aged open tickets separately fro
 
 ### Figure 9: Closed Tickets SLA Metrics
 
-![Closed SLA](image9.png)
+![Closed SLA](./screenshots/image9.png)
 
 **Overview:**  
 Analysis of closed tickets reveals minimal volume and inconsistent SLA achievement patterns.
@@ -383,7 +383,7 @@ Clarify status lifecycle and consider consolidating "Resolved" and "Closed" if d
 
 ### Figure 10: Resolution Time by Category
 
-![Category Days](image10.png)
+![Category Days](./screenshots/image10.png)
 
 **Overview:**  
 Horizontal bar chart comparing average resolution time across issue categories reveals surprising consistency.
@@ -416,7 +416,7 @@ Cannot improve resolution time by shifting focus between categories. Must addres
 
 ### Figure 11: Resolution Time by Severity
 
-![Severity Days](image11.png)
+![Severity Days](./screenshots/image11.png)
 
 **Overview:**  
 Comparison of resolution time across severity levels reveals unexpected finding: severity does not correlate with resolution speed.
@@ -453,7 +453,7 @@ Implement severity-based SLA with prioritization enforcement: High (1-2 days), M
 
 ### Figure 12: Customer Satisfaction Breakdown
 
-![Satisfaction Overview](image12.png)
+![Satisfaction Overview](./screenshots/image12.png)
 
 **Overview:**  
 Four gauge charts showing satisfaction distribution reveal strong overall sentiment despite operational challenges.
@@ -489,7 +489,7 @@ Strong satisfaction (81%) provides buffer while operational improvements are imp
 
 ### Figure 13: Category Volume Trends
 
-![Volume Trends](image13.png)
+![Volume Trends](./screenshots/image13.png)
 
 **Overview:**  
 Stacked area chart showing ticket volume trends by category over 8 months reveals stable composition with volume fluctuations.
@@ -524,7 +524,7 @@ Historical stability suggests future volumes predictable for capacity planning. 
 
 ### Figure 14: Days Open Distribution
 
-![Days Distribution](image14.png)
+![Days Distribution](./screenshots/image14.png)
 
 **Overview:**  
 Column chart showing ticket distribution by age reveals concentration in 22-30 day range with significant aged ticket problem.
@@ -565,7 +565,7 @@ Lack of prioritization + Insufficient capacity = tickets age uniformly regardles
 
 ### Figure 15: Team Performance Scorecard
 
-![Team Performance](image15.png)
+![Team Performance](./screenshots/image15.png)
 
 **Overview:**  
 Comprehensive table comparing five owner groups across key performance metrics reveals balanced workload but concerning critical backlog.
@@ -743,49 +743,13 @@ Finally, this project showed me that the best insights often contradict assumpti
 
 ---
 
-## Contact & Collaboration
+## Contact
 
-**Project Creator:** [Your Name]  
-**LinkedIn:** [Your LinkedIn URL]  
-**Portfolio:** [Your Portfolio Website]  
-**Email:** [Your Email]
+**Project Creator:** [Tien Huynh ]  
+**LinkedIn:** [https://www.linkedin.com/in/tien-huynh-14021990/]  
+**Portfolio:** [https://carrd.co/]  
+**Email:** [huynhhatien@gmail.com]
 
-### Repository Structure
-```
-├── data/
-│   └── Help_Desk_correct_data.xlsx
-├── dashboard/
-│   └── Help_Desk_Dashboard.xlsx
-├── images/
-│   └── [Dashboard screenshots]
-├── documentation/
-│   └── Technical_Documentation.md
-└── README.md
-```
 
-### How to Use This Project
-1. Clone the repository
-2. Open `Help_Desk_Dashboard.xlsx` in Excel (2016 or later)
-3. Enable Power Pivot and data connections
-4. Explore interactive dashboard with slicers
-5. Review DAX measures in Power Pivot for methodology
-
----
-
-## License
-
-This project is available for educational and portfolio purposes. Please provide attribution if you use or adapt this work.
-
----
-
-## Acknowledgments
-
-- Inspired by real-world ITSM challenges in enterprise IT organizations
-- Dashboard design principles from data visualization best practices
-- Analysis framework based on ITIL service management standards
-
----
-
-**If you found this analysis helpful, please star this repository!**
 
 *Last Updated: January 2025*
