@@ -12,7 +12,8 @@
 ## 🎥 Live Demo
 
 > **Watch the dashboard in action**
-> 
+> <img width="1739" height="1159" alt="Screenshot 2025-11-28 151707" src="https://github.com/user-attachments/assets/8cad5e76-bcde-4f6d-a1fd-97294a7d5e32" />
+
 [IT_helpdesk.webm](https://github.com/user-attachments/assets/e71a87b6-8c5e-45ee-84d8-a0aabb3f53a9)
 
 
@@ -745,7 +746,7 @@ Finally, this project showed me that the best insights often contradict assumpti
 
 ## Contact
 
-**Project Creator:** [Tien Huynh ]  
+**Project Creator:** Tien Huynh 
 **LinkedIn:** [https://www.linkedin.com/in/tien-huynh-14021990/]  
 **Portfolio:** [https://carrd.co/]  
 **Email:** [huynhhatien@gmail.com]
