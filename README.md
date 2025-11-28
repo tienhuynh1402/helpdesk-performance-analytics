@@ -11,16 +11,10 @@
 
 ## 🎥 Live Demo
 
-> **Watch the dashboard in action** - 3-minute walkthrough of key features and insights
-[IT_helpdesk.webm](https://github.com/user-attachments/assets/ad3a9814-6588-4397-b524-49e1b87b08bb)
+> **Watch the dashboard in action**
+> 
+[IT_helpdesk.webm](https://github.com/user-attachments/assets/e71a87b6-8c5e-45ee-84d8-a0aabb3f53a9)
 
-**Quick Preview:**
-- Interactive slicers for dynamic filtering
-- Real-time KPI metrics
-- Drill-down capabilities across 15+ visualizations
-- Executive summary and detailed analysis views
-
-*[Video placeholder - Upload to YouTube/Loom and replace link above]*
 
 ---
 
